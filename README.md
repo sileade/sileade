@@ -95,3 +95,28 @@ Hugo theme with integrated CMS admin panel. EasyMDE Markdown editor, image galle
 [![Telegram](https://img.shields.io/badge/-@nodkeys__i-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/nodkeys_i)
 [![Email](https://img.shields.io/badge/-ilea@nodkeys.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ilea@nodkeys.com)
 [![GitHub](https://img.shields.io/badge/-sileade-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sileade)
+
+<!-- KANEO-PROCESS-DOCS:START -->
+
+## Управляемая документация Git-портфеля
+
+**Repository:** `sileade`  
+**Документационная ветка:** `kaneo-processes`
+
+### Назначение repository
+
+Repository `sileade` является служебным или документальным и не сопоставлен с отдельной карточкой Kaneo. Существующий заголовок README: `Hi there 👋 I'm Ilea`. Рабочая документация сохраняется, а этот управляемый блок фиксирует место repository в общем Git-контуре.
+
+### Эксплуатационный контроль
+
+- Проверять ветку `kaneo-processes` после каждого обновления документального портфеля.
+- Не создавать дублирующую карточку Kaneo без отдельного решения владельца.
+- Не выполнять force-push; при divergence использовать ручной merge.
+
+### Связи
+
+- Forgejo: https://git.nodkeys.com/ilea/sileade
+- GitHub: https://github.com/sileade/sileade
+- Kaneo workspace: https://kaneo.nodkeys.com
+
+<!-- KANEO-PROCESS-DOCS:END -->
